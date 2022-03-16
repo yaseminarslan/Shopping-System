@@ -1,0 +1,16 @@
+D:\odev_2\odev_2\odev_2\bin\Debug\netcoreapp3.1\odev_2.exe
+D:\odev_2\odev_2\odev_2\bin\Debug\netcoreapp3.1\odev_2.deps.json
+D:\odev_2\odev_2\odev_2\bin\Debug\netcoreapp3.1\odev_2.runtimeconfig.json
+D:\odev_2\odev_2\odev_2\bin\Debug\netcoreapp3.1\odev_2.runtimeconfig.dev.json
+D:\odev_2\odev_2\odev_2\bin\Debug\netcoreapp3.1\odev_2.dll
+D:\odev_2\odev_2\odev_2\bin\Debug\netcoreapp3.1\odev_2.pdb
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.csproj.AssemblyReference.cache
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.Form1.resources
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.Properties.Resources.resources
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.csproj.GenerateResource.cache
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.AssemblyInfoInputs.cache
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.AssemblyInfo.cs
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.csproj.CoreCompileInputs.cache
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.dll
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.pdb
+D:\odev_2\odev_2\odev_2\obj\Debug\netcoreapp3.1\odev_2.genruntimeconfig.cache
